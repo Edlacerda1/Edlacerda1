@@ -39,5 +39,5 @@ Here are some ideas to get you started:
 ##
 
 <div>
-  <a = href="https://www.linkedin.com/in/edmundo-lacerda-8b2282245/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=White" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/edmundo-lacerda-8b2282245/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=White" target="_blank"></a>
 </div>
