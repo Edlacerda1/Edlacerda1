@@ -5,19 +5,17 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
 -->
 
+- 🔭 Atualmente trabalhando como Projetista.
+- 🌱 Estudando Python, técnicas de Web Scraping e Análise de Dados.
+- 👯 Gerindo projetos de extensão universitária.
+- 💬 Interesses: IoT, Automação e Análise de Dados.
+- 📫 [LinkedIn](https://www.linkedin.com/in/edmundo-lacerda-8b2282245/)
+- ⚡ Técnico em Mecatrônica | Tecnólogo em Automação Industrial (em andamento)
 
 <div>
-     <a href ="https://www.linkedin.com/in/edmundo-lacerda-8b2282245/"> 
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edlacerda1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edlacerda1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=86400"/>
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edlacerda1&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
