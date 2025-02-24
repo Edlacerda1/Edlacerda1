@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Atualmente trabalhando como Projetista.
-- 🌱 Estudando Python, técnicas de Web Scraping e Análise de Dados.
+- 🌱 Estudando Python, técnicas de Web Scraping,Análise de Dados, Rede Neural e Machine Learning.
 - 👯 Gerindo projetos de extensão universitária.
 - 💬 Interesses: IoT, Automação, Análise de Dados e Inteligencia Artificial.
 - 📫 [LinkedIn](https://www.linkedin.com/in/edmundo-lacerda-8b2282245/)
