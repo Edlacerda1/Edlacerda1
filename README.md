@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
  
 -->
-- 🔭 Atualmente trabalhando como Projetista.
+- 🔭 Atualmente trabalhando como Projetista. 
 - 🌱 Estudando Python, técnicas de Web Scraping, Análise de Dados, Rede Neural e Machine Learning.
 - 👯 Gerindo projetos de extensão universitária.
 - 💬 Interesses: IoT, Automação, Análise de Dados e Inteligencia Artificial.
