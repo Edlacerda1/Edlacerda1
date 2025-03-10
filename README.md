@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Técnico em Mecatrônica | Tecnólogo em Automação Industrial (em andamento)
 
 <div>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edlacerda1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=60"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/apiusername=edlacerda1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=60"/>
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edlacerda1&layout=compact&langs_count=16&theme=dracula&cache_seconds=60"/>
 </div>
 
