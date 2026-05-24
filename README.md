@@ -7,11 +7,11 @@ Here are some ideas to get you started:
  
 -->
 - 🔭 Atualmente trabalhando como Projetista. 
-- 🌱 Estudando Python, técnicas de Web Scraping, Análise de Dados, Rede Neural e Machine Learning.
-- 👯 Projetos de extensão universitária.
-- 💬 Interesses: IoT, Automação, Análise de Dados, Inteligencia Artificial e P&D.
+- 🌱 Estudando Python, Cálculo, Estatística, Análise de Dados, Rede Neural e Machine Learning.
+- 👯 Projetos de extensão universitária e Iniciação Cinentífica.
+- 💬 Interesses: IoT, Matemática, Automação, Análise de Dados, Inteligencia Artificial e P&D.
 - 📫 [LinkedIn](https://www.linkedin.com/in/edmundo-lacerda-8b2282245/)
-- ⚡ Técnico em Mecatrônica | Tecnólogo em Automação Industrial (em andamento)
+- ⚡ Técnico em Mecatrônica | Tecnólogo em Automação Industrial
 
 <div>
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edlacerda1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=60"/>
@@ -23,9 +23,7 @@ Here are some ideas to get you started:
          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
     <img align="center" alt="Ed-C++" height="30" width="40" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-     <img align="center" alt="Ed-C#" height="30" width="40" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-     <img align="center" alt="Ed-Mysql" height="30" width="40" 
+       <img align="center" alt="Ed-Mysql" height="30" width="40" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />   
      <img align="center" alt="Ed-Arduino" height="30" width="40" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />   
