@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Técnico em Mecatrônica | Tecnólogo em Automação Industrial
 
 <div>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edlacerda1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=60"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edlacerda1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=60"/>
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edlacerda1&layout=compact&langs_count=16&theme=dracula&cache_seconds=60"/>
 </div>
 
@@ -39,8 +39,6 @@ Here are some ideas to get you started:
         src="https://github.com/user-attachments/assets/0f1d8e12-97c2-4d11-a031-797c472c8eec" />   
   
 </div>
-
-
 
 <picture>
      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Edlacerda1/Edlacerda1/output/github-contribution-grid-snake-dark.svg">
