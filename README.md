@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
  
 -->
-- 🔭 Atualmente trabalhando como Projetista. 
+- 🔭 Atualmente trabalhando como Eng. Automação. 
 - 🌱 Estudando Python, Cálculo, Estatística, Análise de Dados, Rede Neural e Machine Learning.
 - 👯 Projetos de extensão universitária e Iniciação Cinentífica.
 - 💬 Interesses: IoT, Matemática, Automação, Análise de Dados, Inteligencia Artificial e P&D.
